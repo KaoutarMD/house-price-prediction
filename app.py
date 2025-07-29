@@ -85,7 +85,7 @@ st.markdown("---")
 st.markdown(
     "<div style='text-align: center;'>"
     "Made with ❤️ by <b>Mahda Kaoutar</b><br>"
-    "<a href='https://github.com/KaoutarMD'>🔗 GitHub Repository</a> | "
+    "<a href='https://github.com/KaoutarMD/house-price-prediction'>🔗 GitHub Repository</a> | "
     "<a href='https://www.kaggle.com/datasets/dansbecker/melbourne-housing-snapshot'>📊 Dataset</a>"
     "</div>",
     unsafe_allow_html=True
