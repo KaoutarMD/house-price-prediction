@@ -55,3 +55,10 @@ streamlit run app.py
 
 Made with ❤️ by [Mahda Kaoutar](https://github.com/KaoutarMD)
 
+## App Overview
+
+Here's a screenshot of the Streamlit app:
+
+![App Interface 1](images/Cap1.png)
+![App Interface 2](images/Cap2.png)
+
