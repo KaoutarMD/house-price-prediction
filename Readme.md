@@ -55,4 +55,3 @@ streamlit run app.py
 
 Made with ❤️ by [Mahda Kaoutar](https://github.com/KaoutarMD)
 
-## Sources
